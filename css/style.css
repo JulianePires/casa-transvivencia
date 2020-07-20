@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    list-style: none;
+}
+
+.img-logo {
+    margin: auto;
+}
+
+.logo {
+    width: 100px;
+    margin-left: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+    background-color: #EFEBF2;
+    height: 130px;
+
+}
+
+nav {
+    margin: auto;
+}
+
+nav a {
+    text-decoration: none;
+    color: #181818;
+    text-align: center;
+    padding: 12px;
+    font-size: 15px;
+    line-height: 24px;
+    margin: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold
+
+}
+
+.apoiar {
+    background-color: ;
+}
+
+
+.ativo {
+    color: #BB0E6D;
+}
+
+#casatrans {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+.sobre-casa h2{
+    font-family: 'Cousine', monospace;
+    font-size: 32px;
+}
+
+.sobre-casa h2:after {
+	content: "";
+	display: block;
+	width: 550px;
+	height: 25px;
+	background-color: #F1CFDF;
+    margin-top: -17px;
+    margin-left: -150px;
+
+}
+
+.sobre-casa p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 40px;
+    max-width: 610px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.quero-doar {
+    background-color: #BB0E6D;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-family:'Montserrat', sans-serif; 
+    font-weight: bold;
+    color: #fff;
+    
+}
+
+.img-pride {
+    width: 470px;
+}
+
+.icones-redes{
+    display: flex;
+    justify-content: center;
+    margin-top:35px;
+    padding: ;
+}
+
+.fab {
+    color: #3D3535;
+    font-size: 32px;
+    padding: 0 35px;
+}
